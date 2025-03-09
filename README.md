@@ -1,7 +1,6 @@
 
 # NCAA tournament games
 
-
 Step 1: Understand the Dataset and Competition Requirements
 • Read the documentation carefully to grasp the structure and purpose of each file (basic game results, detailed box scores, geographic data, etc.).
 • Familiarize yourself with the submission format and what the competition expects regarding prediction outputs.
