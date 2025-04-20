@@ -24,7 +24,7 @@ Step 5: Feature Engineering
  - Calculate point differentials, shooting percentages, or rebound margins.
  - Derive indicators for home-court advantage using game location data.
  - Combine detailed box score stats to quantify team efficiency.
-• Ensure that features are aligned consistently across different datasets and seasons.
+• Ensure that features are aligned consistently across different datases.
 
 Step 6: Model Development
 • Split your historical data into training and validation sets.
